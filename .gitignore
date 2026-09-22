@@ -1,1 +1,9 @@
+.env
+.env.*
+!.env.example
 data/
+outputs/*_cache.json
+outputs/*.log
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
