@@ -1,0 +1,6 @@
+#已经有了一个conda环境
+source ~/anaconda3/etc/profile.d/conda.sh
+#已经安装了一个python环境
+conda create -n stu_da python=3.11
+#使用这个stu_da环境
+需要安装包的时候，告诉我命令，我自己去装包。
